@@ -1,2 +1,2 @@
 # tranzacct
-tranzacct app for LB of Camden 
+tranzacct app and website/dashboard for LB of Camden 
